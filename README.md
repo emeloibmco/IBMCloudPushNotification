@@ -88,3 +88,9 @@ Luego usted vera una página en la cual le asignara un nombre a su servicio, sel
 Luego vera  una  ventana  en  la  cual  deberá  agregar  una  nueva  credencial  para  utilizar  el  servicio  desde  una aplicación Web o Mobile.
 
 ![12](https://user-images.githubusercontent.com/50923637/58979968-e6498c00-8794-11e9-90a5-a59b8f7da50f.jpg)
+
+La siguiente imagen muestra la configuración del servicio Push Notification.  La URL se debe agregar una vez se despliegue la aplicación en un paso posterior: 
+
+![13](https://user-images.githubusercontent.com/50923637/58980097-33c5f900-8795-11e9-81df-184df6c6120f.jpg)
+
+## 5. Creación de aplicación SDK for node.js.
